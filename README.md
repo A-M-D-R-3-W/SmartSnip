@@ -47,13 +47,13 @@ python smartSnip.py
 
 ### Interpreting Images
 
-- After capturing the screenshot, use the **Send to GPT-4** button to send the image for analysis.
+- After capturing the screenshot, use the **Interrogate** button to send the image for analysis.
 - The response from GPT-4V will be shown in the text area.
 
 ### Text-to-Speech
 
 - Once the analysis is done, click the **TTS** button to listen to the spoken version of the text.
-- The button will become red to indicate that the speech is being generated.
+- The button will become red to indicate that the speech is being generated. If the button is clicked again, the TTS will be canceled.
 
 ### Settings
 
