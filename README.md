@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### Starting the Application
 
-To start SmartSnippingTool, use the following command from the root directory of the project:
+To start SmartSnip, use the following command from the root directory of the project:
 
 ```bash
 python main.py
