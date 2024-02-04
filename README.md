@@ -16,7 +16,7 @@ Before installing SmartSnip, ensure you have Python installed on your system. Fo
 1. Clone the repository or download the source code:
 
 ```bash
-git clone https://github.com/<your-github-username>/SmartSnippingTool.git
+git clone https://github.com/A-M-D-R-3-W/SmartSnip.git
 ```
 
 2. Navigate to the cloned repository directory:
