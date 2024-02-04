@@ -46,7 +46,7 @@ Upon the first open, your OpenAI API key ***must be changed***. This is located 
 ### Taking Screenshots
 
 - Click the **New Snip** button to start the snipping tool.
-- Select the area of the screen you want to capture.
+- Select the area of the screen you want to capture (**ESC** can by clicked while dragging to cancel the snip).
 
 ### Interpreting Images
 
