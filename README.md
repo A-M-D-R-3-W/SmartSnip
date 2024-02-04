@@ -57,7 +57,7 @@ python smartSnip.py
 
 ### Settings
 
-To customize SmartSnippingTool:
+To customize SmartSnip:
 
 - Click the **Settings** button to adjust appearance modes, themes, OpenAI API key, TTS voice, and TTS model.
 - Changes will be saved automatically, though theme changes will require a restart to take effect.
