@@ -40,6 +40,9 @@ To start SmartSnip, use the following command from the root directory of the pro
 ```bash
 python smartSnip.py
 ```
+
+Upon the first open, your OpenAI key ***must be changed***. This is located in the **Settings** window within the program, or can be accessed from **config.env**. An OpenAI key can be acquired [Here](https://platform.openai.com/api-keys).
+
 ### Taking Screenshots
 
 - Click the **New Snip** button to start the snipping tool.
