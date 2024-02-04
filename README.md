@@ -73,7 +73,7 @@ Custom themes can be added by doing the following:
 2. Add the path to the **themeDict** dictionary within **smartSnip.py**. Follow the existing convention ('mytheme': 'themes/mytheme.json')
 3. In order for the new theme to appear in the **Settings** window, **self.settings.theme_optionmenu** within the **settings_window** function must be modified to add the name you assigned it in the dictionary to the widget. (values=['blue', ...., 'mytheme'])
 
-I suggest creating new themes using [ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder)
+***I suggest creating new themes using [ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder)***
 
 ## Contributing
 
