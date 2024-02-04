@@ -61,6 +61,7 @@ To customize SmartSnip:
 
 - Click the **Settings** button to adjust appearance modes, themes, OpenAI API key, TTS voice, and TTS model.
 - Changes will be saved automatically, though theme changes will require a restart to take effect.
+- If you like, changes can also be made by adjusting **config.env** manually, though this is not recommended as all settings can be accessed from within the application.
 
 ### Resetting the Application
 
