@@ -40,3 +40,30 @@ To start SmartSnip, use the following command from the root directory of the pro
 ```bash
 python smartSnip.py
 ```
+### Taking Screenshots
+
+- Click the **New Snip** button to start the snipping tool.
+- Select the area of the screen you want to capture.
+
+### Interpreting Images
+
+- After capturing the screenshot, use the **Send to GPT-4** button to send the image for analysis.
+- The response from GPT-4V will be shown in the text area.
+
+### Text-to-Speech
+
+- Once the analysis is done, click the **TTS** button to listen to the spoken version of the text.
+- The button will become red to indicate that the speech is being generated.
+
+### Settings
+
+To customize SmartSnippingTool:
+
+- Click the **Settings** button to adjust appearance modes, themes, API keys, TTS voice, and TTS model.
+- Changes will be saved automatically and may require a restart for themes to take full effect.
+
+### Resetting the Application
+
+If you need to reset SmartSnippingTool to its initial state:
+
+- Click the **Reset** button to clear all data and return to the start screen.
