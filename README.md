@@ -30,3 +30,13 @@ cd SmartSnip
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+### Starting the Application
+
+To start SmartSnippingTool, use the following command from the root directory of the project:
+
+```bash
+python main.py
+```
