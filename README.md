@@ -72,6 +72,14 @@ If you need to reset SmartSnippingTool to its initial state:
 
 - Click the **Reset** button to clear all data and return to the start screen.
 
+## Adding Custom Themes
+
+Custom themes can be added by doing the following:
+
+1. Drop your theme file (mytheme.json) into the **/themes** folder in the main directory.
+2. Add the path to the **themeDict** dictionary within **smartSnip.py**. Follow the existing convention ('mytheme': 'themes/mytheme.json')
+3. In order for the new theme to appear in the **Settings** window, **self.settings.theme_optionmenu** within the **settings_window** function must be modified to add the name you assigned it in the dictionary to the widget. (Ex. values=['blue', ...., 'mytheme'])
+
 ## Contributing
 
 This is very much a WIP, and as such contributions are greatly appreciated!
