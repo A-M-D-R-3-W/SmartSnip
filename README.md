@@ -67,3 +67,7 @@ To customize SmartSnippingTool:
 If you need to reset SmartSnippingTool to its initial state:
 
 - Click the **Reset** button to clear all data and return to the start screen.
+
+## Contributing
+
+This is very much a WIP, and as such contributions are greatly appreciated!
