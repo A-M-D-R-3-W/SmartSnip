@@ -11,7 +11,7 @@ SmartSnip is a simple screenshot utility with the capability to interpret the co
 
 ## Installation
 
-Before installing SmartSnippingTool, ensure you have Python installed on your system. Follow these steps:
+Before installing SmartSnip, ensure you have Python installed on your system. Follow these steps:
 
 1. Clone the repository or download the source code:
 
