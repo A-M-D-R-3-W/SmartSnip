@@ -2,13 +2,6 @@
 
 SmartSnip is a simple screenshot utility with the capability to interpret the content of the captured images and provide descriptions with the assistance of OpenAI's GPT-4 Vision (GPT-4V) and text-to-speech functionality. The main goal here is to provide an easier way to interact with GPT-4V.
 
-## Features
-- **Screenshot Capture**: Allows users to take screenshots of their screen or selected areas.
-- **OpenAI GPT-4 Vision Integration**: Analyzes the captured images with the help of GPT-4V for content comprehension and description.
-- **Text-to-Speech**: Converts the generated descriptions from GPT-4V into audible speech.
-- **Customizable Appearance**: Provides options to change appearance themes and text-to-speech voices.
-- **Configuration via `.env` Files**: Utilizes a config.env file for storing user preferences and API keys.
-
 ## Installation
 
 Before installing SmartSnip, ensure you have Python installed on your system. Follow these steps:
