@@ -22,7 +22,7 @@ git clone https://github.com/A-M-D-R-3-W/SmartSnip.git
 2. Navigate to the cloned repository directory:
 
 ```bash
-cd SmartSnippingTool
+cd SmartSnip
 ```
 
 3. Install the required dependencies:
