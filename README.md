@@ -72,6 +72,21 @@ If you need to reset SmartSnippingTool to its initial state:
 
 - Click the **Reset** button to clear all data and return to the start screen.
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+
 ## Themes
 
 |                |      blue      |     darkblue   |      green     |      coffee    |       rose     |      violet    |      marsh     |      carrot    |     sky        |      red       |     pink       |     metal      |
