@@ -74,9 +74,10 @@ If you need to reset SmartSnippingTool to its initial state:
 
 ## Themes
 
-| Center-aligned |
-|     :---:      |
-| ![blue-dark](https://github.com/A-M-D-R-3-W/SmartSnip/assets/84816543/4c366464-b77a-4eb1-af38-207cdbd9b50f) |
+|                |                |                |                |                |                |                |                |                |                |                |                |                |
+|     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+|     Light      |
+|     Dark       |
 
 
 ## Adding Custom Themes
