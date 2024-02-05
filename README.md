@@ -76,8 +76,8 @@ If you need to reset SmartSnippingTool to its initial state:
 
 |                |      blue      |     darkblue   |      green     |      coffee    |       rose     |      violet    |      marsh     |      carrot    |     sky        |      red       |     pink       |     metal      |
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-|     Light      |
-|     Dark       |
+|     Light      |        ![blue-light](https://github.com/A-M-D-R-3-W/SmartSnip/assets/84816543/d6d9e6bf-3694-49ff-af26-451fdbcf4376)        |                |                |                |                |                |                |                |                |                |                |                |
+|     Dark       |       ![blue-dark](https://github.com/A-M-D-R-3-W/SmartSnip/assets/84816543/e71605db-3c75-415f-828e-153d51d67f24)         |                |                |                |                |                |                |                |                |                |                |                |
 
 
 ## Adding Custom Themes
