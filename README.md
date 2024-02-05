@@ -72,6 +72,13 @@ If you need to reset SmartSnippingTool to its initial state:
 
 - Click the **Reset** button to clear all data and return to the start screen.
 
+## Themes
+
+| Center-aligned |
+|     :---:      |
+| git status     |
+
+
 ## Adding Custom Themes
 
 Custom themes can be added by doing the following:
