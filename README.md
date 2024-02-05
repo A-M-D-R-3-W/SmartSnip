@@ -74,7 +74,7 @@ If you need to reset SmartSnippingTool to its initial state:
 
 ## Themes
 
-|                |                |                |                |                |                |                |                |                |                |                |                |                |
+|                |      blue      |     darkblue   |                |                |                |                |                |                |                |                |                |                |
 |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 |     Light      |
 |     Dark       |
