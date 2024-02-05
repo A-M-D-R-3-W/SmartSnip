@@ -2,6 +2,8 @@
 
 SmartSnip is a simple screenshot utility with the capability to interpret the content of the captured images with the assistance of OpenAI's GPT-4 Vision (GPT-4V) and text-to-speech functionality. The main goal here is to provide an easier way to interact with GPT-4V.
 
+⚠️ ***This is currently a work-in-progress, and has only been tested on Windows 11.*** ⚠️
+
 ## Demo
 
 https://github.com/A-M-D-R-3-W/SmartSnip/assets/84816543/297676ea-6182-4327-a588-81b536d3fb6e
