@@ -47,6 +47,7 @@ Upon the first open, your OpenAI API key ***must be changed***. This is located 
 
 ### Interpreting Images
 
+- Type your question in the text box at the top. If left empty, it will submit *"What is in this image?"* by default.
 - After capturing the screenshot, use the **Interrogate** button to send the image for analysis.
 - The response from GPT-4V will be shown in the text area.
 
