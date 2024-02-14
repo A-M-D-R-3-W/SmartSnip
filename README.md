@@ -1,4 +1,5 @@
 ***change interrogate to submit***
+***Add max tokens settings parameter***
 
 # SmartSnip
 
