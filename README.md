@@ -1,7 +1,3 @@
-***TO-DO:***
-
-- ***Add max tokens settings parameter***
-
 # SmartSnip
 
 SmartSnip is a simple screenshot utility with the capability to interpret the content of the captured images with the assistance of OpenAI's GPT-4 Vision (GPT-4V) and text-to-speech functionality. The main goal here is to provide an easier way to interact with GPT-4V.
@@ -95,6 +91,12 @@ Custom themes can be added by doing the following:
 3. In order for the new theme to appear in the **Settings** window, **self.settings.theme_optionmenu** within the **settings_window** function must be modified to add the name you assigned it in the dictionary to the widget. (values=['blue', ...., 'mytheme'])
 
 ***I suggest creating new themes using [ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder)***
+
+## Development TO-DO:
+
+- ***Add max tokens settings parameter***
+- Reconfigure the deletion and recreation of the reset and settings buttons due to the change to using pack.
+- Modify the snipping overlay to closer resemble the original snipping tool (with a hole in the overlay).
 
 ## Contributing
 
