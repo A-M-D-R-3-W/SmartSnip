@@ -42,6 +42,8 @@ To start SmartSnip, use the following command from the root directory of the pro
 python smartSnip.py
 ```
 
+Alternatively, on ***Windows***, you can run ***smartSnip.vbs***
+
 ⚠️ Upon the first open, your OpenAI API key ***must be changed***. This is located in the **Settings** window within the program, or can be accessed from **config.env**. An OpenAI API key can be acquired [Here](https://platform.openai.com/api-keys).
 
 ### Taking Screenshots
