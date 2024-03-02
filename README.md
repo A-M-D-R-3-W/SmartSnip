@@ -97,6 +97,7 @@ Custom themes can be added by doing the following:
 - ***Add max tokens settings parameter***
 - Reconfigure the deletion and recreation of the reset and settings buttons due to the change to using pack.
 - Modify the snipping overlay to closer resemble the original snipping tool (with a hole in the overlay).
+- Create binaries for Windows, MacOS, Linux
 
 ## Contributing
 
