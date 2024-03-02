@@ -10,7 +10,7 @@ https://github.com/A-M-D-R-3-W/SmartSnip/assets/84816543/297676ea-6182-4327-a588
 
 ## Installation
 
-Before installing SmartSnip, ensure you have Python 3.10 installed on your system. Follow these steps:
+Before installing SmartSnip, ensure you have [Python 3.10](https://www.python.org/downloads/release/python-3100/) installed on your system. Follow these steps:
 
 1. Clone the repository or download the source code:
 
