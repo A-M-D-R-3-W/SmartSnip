@@ -583,7 +583,7 @@ class SnippingTool(ctk.CTk):
                     ]
                 }
             ],
-            "max_tokens": 1000
+            "max_tokens": 4000
         }
 
         # Send the request to the GPT-4V API
