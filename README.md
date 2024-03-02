@@ -1,6 +1,6 @@
 ***TO-DO:***
 
-***- Add max tokens settings parameter***
+- ***Add max tokens settings parameter***
 
 # SmartSnip
 
