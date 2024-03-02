@@ -277,7 +277,7 @@ class SnippingTool(ctk.CTk):
             self.textbox.pack(fill=tk.BOTH)
 
             # Create a button to send the response to GPT-4V API
-            self.send_to_gpt4_button = ctk.CTkButton(self.button_frame, text="Interrogate", command=self.gpt_threading)
+            self.send_to_gpt4_button = ctk.CTkButton(self.button_frame, text="Send", command=self.gpt_threading)
             self.send_to_gpt4_button.pack(side=tk.LEFT, padx=5, pady=5)
 
             # Create a button to send the response to OpenAI's TTS API
