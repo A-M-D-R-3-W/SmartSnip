@@ -102,4 +102,4 @@ Custom themes can be added by doing the following:
 
 ## Contributing
 
-This is very much a WIP, and as such contributions are greatly appreciated!
+This is very much a WIP, and as such contributions are greatly appreciated! 
