@@ -1,14 +1,3 @@
-'''
-
-TODO:
-
-    - Reconfigure the deletion and recreation of the reset and settings buttons due to the change to using pack.
-    - Modify the snipping overlay to closer resemble the original snipping tool (with a hole in the overlay).
-
-'''
-
-
-
 import tkinter as tk
 import customtkinter as ctk
 from PIL import ImageGrab, Image
